@@ -1,4 +1,4 @@
-# img_classification_benchmark
+# Image classification benchmark
 A performance benchmark of recent image classification models in deep learning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IhabBendidi/img_classification_benchmark/blob/main/CNN_benchmark.ipynb)
