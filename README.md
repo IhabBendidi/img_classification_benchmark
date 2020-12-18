@@ -42,25 +42,18 @@ You can then access this notebook under Jupyter.
 ### Notebook outline
 
 - **I - Data Preparation and Helper Functions**
-
 - *1 - Data Preparation*
-
 - *2 - Train/Test Helper Functions*
 
 - **II - Pretrained Model : Resnet**
-
 - *1 - Finetune all layers*
-
 - *2 - Finetune the two last layers*
-
 - *3 - Finetune only the last layer*
 
 - **III - Existing Architecture : SqueezeNet**
-
 - *1 - Pretrained Model : Finetuning classification layer*
-
 - *2 - Training the model from scratch*
 
-- **IV - CNN model from scratch***
+- **IV - CNN model from scratch**
 
 
