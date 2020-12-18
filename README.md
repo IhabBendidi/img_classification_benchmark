@@ -12,7 +12,7 @@ The dataset used is CIFAR-10, which is a dataset that consists of 60000 32x32 co
 
 The dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. Between them, the training batches contain exactly 5000 images from each class.
 
-More details about the dataset can be found [here](https://www.cs.toronto.edu/~kriz/cifar.html)
+More details about the dataset can be found [here](https://www.cs.toronto.edu/~kriz/cifar.html).
 
 
 ### Installation  
